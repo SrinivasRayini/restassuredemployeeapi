@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.067" tests="8" errors="0" skipped="0" failures="8">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\jdk1.8.0_241\jre\bin"/>
+    <property name="java.vm.version" value="25.241-b07"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\Java\Selenium\RestAssuredAPIAutomation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\Java\Selenium\RestAssuredAPIAutomation"/>
+    <property name="java.runtime.version" value="1.8.0_241-b07"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\jdk1.8.0_241\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Varun\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="F:\Softwares\Maven\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\jdk1.8.0_241\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\jdk1.8.0_241\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;F:\app\Varun\product\11.2.0\dbhome_1\bin;F:\oracle\product\10.2.0\db_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;F:\Softwares\Git\cmd;F:\Softwares\Maven\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Varun\AppData\Local\Microsoft\WindowsApps;C:\Users\Varun\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="F:\Softwares\Maven\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="F:\Softwares\Maven\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Varun"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Varun"/>
+    <property name="java.class.path" value="F:\Softwares\Maven\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\jdk1.8.0_241\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_241"/>
+    <property name="java.ext.dirs" value="C:\jdk1.8.0_241\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\jdk1.8.0_241\jre\lib\resources.jar;C:\jdk1.8.0_241\jre\lib\rt.jar;C:\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\jdk1.8.0_241\jre\lib\jsse.jar;C:\jdk1.8.0_241\jre\lib\jce.jar;C:\jdk1.8.0_241\jre\lib\charsets.jar;C:\jdk1.8.0_241\jre\lib\jfr.jar;C:\jdk1.8.0_241\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="F:\Softwares\Maven\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="checkResponseBody" classname="com.employeeapi.testCases.TC001_Get_All_Employees" time="0.014">
+    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC001_Get_All_Employees.checkResponseBody(TC001_Get_All_Employees.java:36)
+</failure>
+    <system-out><![CDATA[21-02-02 18:27:51 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="checkStatusCode" classname="com.employeeapi.testCases.TC001_Get_All_Employees" time="0.003">
+    <failure message="expected:&lt;200&gt; but was:&lt;429&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:45)
+]]></failure>
+    <system-out><![CDATA[21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+]]></system-out>
+  </testcase>
+  <testcase name="checkResponseBody" classname="com.employeeapi.testCases.TC002_Get_Single_Employee" time="0.003">
+    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC002_Get_Single_Employee.checkResponseBody(TC002_Get_Single_Employee.java:36)
+</failure>
+    <system-out><![CDATA[21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ********Failed to get the response******* 
+]]></system-out>
+  </testcase>
+  <testcase name="checkStatusCode" classname="com.employeeapi.testCases.TC002_Get_Single_Employee" time="0.004">
+    <failure message="expected:&lt;200&gt; but was:&lt;429&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC002_Get_Single_Employee.checkStatusCode(TC002_Get_Single_Employee.java:45)
+]]></failure>
+    <system-out><![CDATA[21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 429 
+]]></system-out>
+  </testcase>
+  <testcase name="checkResponseBody" classname="com.employeeapi.testCases.TC003_Post_Employee" time="0.004">
+    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC003_Post_Employee.checkResponseBody(TC003_Post_Employee.java:56)
+</failure>
+    <system-out><![CDATA[21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+]]></system-out>
+  </testcase>
+  <testcase name="checkStatusCode" classname="com.employeeapi.testCases.TC003_Post_Employee" time="0.032">
+    <failure message="expected:&lt;200&gt; but was:&lt;429&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC003_Post_Employee.checkStatusCode(TC003_Post_Employee.java:65)
+]]></failure>
+    <system-out><![CDATA[21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+]]></system-out>
+  </testcase>
+  <testcase name="checkResponseBody" classname="com.employeeapi.testCases.TC004_Update_Employee" time="0.004">
+    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC004_Update_Employee.checkResponseBody(TC004_Update_Employee.java:56)
+</failure>
+    <system-out><![CDATA[21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+]]></system-out>
+  </testcase>
+  <testcase name="checkStatusCode" classname="com.employeeapi.testCases.TC004_Update_Employee" time="0.003">
+    <failure message="expected:&lt;200&gt; but was:&lt;405&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<200> but was:<405>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC004_Update_Employee.checkStatusCode(TC004_Update_Employee.java:65)
+]]></failure>
+    <system-out><![CDATA[21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+]]></system-out>
+  </testcase>
+</testsuite>

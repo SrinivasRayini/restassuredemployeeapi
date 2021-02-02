@@ -1,0 +1,258 @@
+21-02-02 15:08:03 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:08:12 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:08:12 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:08:12 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 15:08:12 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:09:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:09:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:09:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] Response body ==> {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."} 
+21-02-02 15:09:24 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:09:24 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 200 
+21-02-02 15:09:24 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:10:05 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:10:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:10:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 15:10:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:10:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 15:10:14 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:12:15 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:12:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:12:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 15:12:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:12:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 15:12:23 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:13:45 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:13:53 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:13:53 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 15:13:53 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:13:53 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 15:13:53 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:14:20 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:14:29 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:14:29 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] Response body ==> {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."} 
+21-02-02 15:14:29 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:14:29 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 200 
+21-02-02 15:14:29 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 15:15:03 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 15:15:11 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 15:15:11 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] Response body ==> {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."} 
+21-02-02 15:15:11 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 15:15:11 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 200 
+21-02-02 15:15:11 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 16:31:02 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 16:31:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getAllEmployees] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 16:31:44 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:31:44 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},"message":"Successfully! Record has been fetched."} 
+21-02-02 16:31:44 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:31:44 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 200 
+21-02-02 16:31:44 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 16:49:15 INFO :com.employeeapi.testCases.TC003_Post_Employee[getAllEmployees] **********Started TC003_Post_Employee ************ 
+21-02-02 16:49:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:49:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:49:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:49:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 16:49:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:50:20 INFO :com.employeeapi.testCases.TC003_Post_Employee[getAllEmployees] **********Started TC003_Post_Employee ************ 
+21-02-02 16:50:28 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:50:28 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:50:28 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:50:28 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 16:50:28 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:51:31 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 16:51:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:51:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:51:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:51:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 16:51:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:52:10 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 16:52:18 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:52:18 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:52:18 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:52:18 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 16:52:18 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:52:58 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 16:53:07 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:53:07 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:53:07 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:53:07 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 16:53:07 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:55:26 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 16:55:35 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:55:35 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"name":"Shivad","salary":"08912","age":"15","id":1580},"message":"Successfully! Record has been added."} 
+21-02-02 16:55:35 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:55:35 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 200 
+21-02-02 16:55:35 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 16:57:54 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 16:58:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 16:58:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 16:58:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 16:58:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 16:58:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:00:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:00:56 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:00:56 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:00:56 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:00:56 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:00:56 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:04:33 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:04:41 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:04:41 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:04:41 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:04:41 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:04:41 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:05:40 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:05:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:05:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:05:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:05:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:05:48 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:05:59 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:06:07 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:06:07 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:06:07 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:06:07 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:06:07 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:15:01 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 17:15:10 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 429 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 17:15:17 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 17:15:23 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:15:29 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:15:29 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:15:29 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:15:29 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:15:29 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:16:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 17:16:09 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},"message":"Successfully! Record has been fetched."} 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 200 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 17:16:15 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 17:16:21 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:16:27 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:16:27 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:16:27 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:16:27 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:16:27 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 17:17:22 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 17:17:31 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 429 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 17:17:39 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"name":"Shivak","salary":"15239","age":"32","id":7323},"message":"Successfully! Record has been added."} 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 200 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 17:17:45 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 17:17:51 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 17:17:51 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 17:17:51 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 17:17:51 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 17:17:51 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 18:12:40 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 18:12:50 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 429 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 18:12:56 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"name":"ShivaA","salary":"76267","age":"92","id":9892},"message":"Successfully! Record has been added."} 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 200 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 18:13:02 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 18:13:08 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:13:08 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:13:08 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:13:08 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 18:13:08 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 18:18:21 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] Response body ==> {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."} 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 200 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 18:18:30 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] Response body ==> {"status":"success","data":{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},"message":"Successfully! Record has been fetched."} 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 200 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 18:18:37 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 18:18:43 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 18:18:49 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:18:49 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:18:49 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:18:49 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 18:18:49 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 
+21-02-02 18:27:51 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[getAllEmployees] **********Started TC001_Get_All_Employees ************ 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[checkStatusCode] Status code==> 429 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC001_Get_All_Employees[tearDown] *********Finished TC001_Get_All_Employees************** 
+21-02-02 18:28:00 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[getSingleEmployee] **********Started TC002_Get_Single_Employee ************ 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[checkStatusCode] Status code==> 429 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC002_Get_Single_Employee[tearDown] *********Finished TC002_Get_Single_Employee************** 
+21-02-02 18:28:06 INFO :com.employeeapi.testCases.TC003_Post_Employee[createEmployee] **********Started TC003_Post_Employee ************ 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[checkStatusCode] Status code==> 429 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC003_Post_Employee[tearDown] *********Finished TC003_Post_Employee************** 
+21-02-02 18:28:12 INFO :com.employeeapi.testCases.TC004_Update_Employee[updateEmployee] **********Started TC004_Update_Employee ************ 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ****** Checking response body******** 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkResponseBody] ********Failed to get the response******* 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] **********Checking status code**************** 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[checkStatusCode] Status code==> 405 
+21-02-02 18:28:18 INFO :com.employeeapi.testCases.TC004_Update_Employee[tearDown] *********Finished TC004_Update_Employee************** 

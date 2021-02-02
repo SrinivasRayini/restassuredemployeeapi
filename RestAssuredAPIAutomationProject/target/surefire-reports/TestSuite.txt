@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 28.943 sec <<< FAILURE! - in TestSuite
+checkResponseBody(com.employeeapi.testCases.TC001_Get_All_Employees)  Time elapsed: 0.014 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC001_Get_All_Employees.checkResponseBody(TC001_Get_All_Employees.java:36)
+
+checkStatusCode(com.employeeapi.testCases.TC001_Get_All_Employees)  Time elapsed: 0.003 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC001_Get_All_Employees.checkStatusCode(TC001_Get_All_Employees.java:45)
+
+checkResponseBody(com.employeeapi.testCases.TC002_Get_Single_Employee)  Time elapsed: 0.003 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC002_Get_Single_Employee.checkResponseBody(TC002_Get_Single_Employee.java:36)
+
+checkStatusCode(com.employeeapi.testCases.TC002_Get_Single_Employee)  Time elapsed: 0.004 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC002_Get_Single_Employee.checkStatusCode(TC002_Get_Single_Employee.java:45)
+
+checkResponseBody(com.employeeapi.testCases.TC003_Post_Employee)  Time elapsed: 0.004 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC003_Post_Employee.checkResponseBody(TC003_Post_Employee.java:56)
+
+checkStatusCode(com.employeeapi.testCases.TC003_Post_Employee)  Time elapsed: 0.032 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<200> but was:<429>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC003_Post_Employee.checkStatusCode(TC003_Post_Employee.java:65)
+
+checkResponseBody(com.employeeapi.testCases.TC004_Update_Employee)  Time elapsed: 0.004 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:48)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.employeeapi.testCases.TC004_Update_Employee.checkResponseBody(TC004_Update_Employee.java:56)
+
+checkStatusCode(com.employeeapi.testCases.TC004_Update_Employee)  Time elapsed: 0.003 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<200> but was:<405>
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.failNotEquals(Assert.java:287)
+	at junit.framework.Assert.assertEquals(Assert.java:67)
+	at junit.framework.Assert.assertEquals(Assert.java:199)
+	at junit.framework.Assert.assertEquals(Assert.java:205)
+	at com.employeeapi.testCases.TC004_Update_Employee.checkStatusCode(TC004_Update_Employee.java:65)
+

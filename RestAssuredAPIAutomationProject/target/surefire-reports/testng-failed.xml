@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [EmployeesRestAPISuite]">
+  <test thread-count="5" verbose="0" name="EmployeeRestAPITest(failed)">
+    <classes>
+      <class name="com.employeeapi.testCases.TC003_Post_Employee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createEmployee"/>
+          <include name="setup"/>
+          <include name="checkStatusCode"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC003_Post_Employee -->
+      <class name="com.employeeapi.testCases.TC004_Update_Employee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="checkResponseBody"/>
+          <include name="checkStatusCode"/>
+          <include name="updateEmployee"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC004_Update_Employee -->
+      <class name="com.employeeapi.testCases.TC001_Get_All_Employees">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="checkResponseBody"/>
+          <include name="getAllEmployees"/>
+          <include name="checkStatusCode"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC001_Get_All_Employees -->
+      <class name="com.employeeapi.testCases.TC002_Get_Single_Employee">
+        <methods>
+          <include name="getSingleEmployee"/>
+          <include name="checkStatusCode"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC002_Get_Single_Employee -->
+    </classes>
+  </test> <!-- EmployeeRestAPITest(failed) -->
+</suite> <!-- Failed suite [EmployeesRestAPISuite] -->
